@@ -1,5 +1,5 @@
 # Gully-Boy
-7057816799 What's up me, eny problem 
+
 pkg update && pkg upgrade
 
 $ pkg install git
